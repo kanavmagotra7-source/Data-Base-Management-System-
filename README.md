@@ -77,6 +77,3 @@ Pull requests are welcome! Feel free to improve performance, add features, or fi
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
