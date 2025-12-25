@@ -92,6 +92,6 @@ If you want improvements, consider:
 
 ## 📄 License
 
-No license is included in this repository (per project preference). If you want one added later, tell me which license.
+No license is included in this repository (per project preference). 
 
 
